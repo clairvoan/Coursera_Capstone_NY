@@ -1,0 +1,9 @@
+School clustering in Edmonton and Calgary
+Introduction
+Edmonon and Calgary are the two large cities in Alberta, Canada. Meanwhile, they are 5th and 4th largest cities in Canada. In Alberta, quality of public schools varies. Some of the top public schools are way better than private schools. Every year, there is a school rank released to public according to the grade 6 and/or grade 3 students' test performance. Each participating school is rated from 0 to 10 based on the test performance, with 10 being the highest and 0 being the lowest
+
+The project is to conduct a research on the elementary school clustering in Edmonton and Calgary. In specific, are there clusters in the cities or randomly spread?
+
+Business problem
+In order to analyze the school scores and their geo-codes and determine if there are clusters formed, we created CSV file that contains all elementary school rankings in Alberta. We will also use Foursquare database to help us visualize the clusters. 
+The project is meaningful to those young parents who want to buy a property with good schools nearby.  
